@@ -919,6 +919,10 @@ a {
   .main__descr {
     text-align: center;
   }
+  .red-input{
+    border: 2px solid red !important;
+  }
+
   .main a {
     margin: 0 auto;
   }
